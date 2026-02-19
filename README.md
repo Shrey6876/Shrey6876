@@ -65,7 +65,7 @@ class Shrey:
 
 ---
 
-### ⚡ Tech Arsenal
+### Tech Arsenal
 
 <p align="center">
 
