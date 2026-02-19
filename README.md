@@ -1,4 +1,4 @@
-<![CDATA[<div align="center">
+<div align="center">
 
 <!-- Animated Header -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:2e9ef7&height=220&section=header&text=Shrey%20Jain&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20%E2%80%A2%20Quantitative%20Finance%20%E2%80%A2%20Multi-Agent%20Systems&descSize=18&descAlignY=55&descColor=8b949e" width="100%" />
@@ -9,9 +9,9 @@
 <br/>
 
 <!-- Profile Badges -->
-[![Profile Views](https://komarev.com/ghpvc/?username=Shrey6876&style=for-the-badge&color=0d1117&labelColor=161b22&label=VISITORS)](https://github.com/Shrey6876)
-[![GitHub Followers](https://img.shields.io/github/followers/Shrey6876?style=for-the-badge&color=0d1117&labelColor=161b22&label=FOLLOWERS&logo=github)](https://github.com/Shrey6876?tab=followers)
-[![GitHub Stars](https://img.shields.io/github/stars/Shrey6876?style=for-the-badge&color=0d1117&labelColor=161b22&label=STARS&logo=github)](https://github.com/Shrey6876)
+<a href="https://github.com/Shrey6876"><img src="https://komarev.com/ghpvc/?username=Shrey6876&style=for-the-badge&color=0d1117&labelColor=161b22&label=VISITORS" alt="Profile Views" /></a>
+<a href="https://github.com/Shrey6876?tab=followers"><img src="https://img.shields.io/github/followers/Shrey6876?style=for-the-badge&color=0d1117&labelColor=161b22&label=FOLLOWERS&logo=github" alt="GitHub Followers" /></a>
+<a href="https://github.com/Shrey6876"><img src="https://img.shields.io/github/stars/Shrey6876?style=for-the-badge&color=0d1117&labelColor=161b22&label=STARS&logo=github" alt="GitHub Stars" /></a>
 
 </div>
 
@@ -65,33 +65,37 @@ class Shrey:
 
 ### ⚡ Tech Arsenal
 
-<div align="center">
+<p align="center">
 
-#### Languages & ML Frameworks
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![scikit--learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+<strong>Languages & ML Frameworks</strong><br/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+<img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" alt="SQL" />
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="TensorFlow" />
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch" />
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" alt="scikit-learn" />
 
-#### Data & Visualization
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=flat-square&logo=scipy&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
+<br/><br/>
 
-#### Tools & Platforms
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white)
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+<strong>Data & Visualization</strong><br/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas" />
+<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy" />
+<img src="https://img.shields.io/badge/SciPy-8CAAE6?style=flat-square&logo=scipy&logoColor=white" alt="SciPy" />
+<img src="https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white" alt="Plotly" />
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" alt="Power BI" />
+<img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white" alt="Tableau" />
 
-</div>
+<br/><br/>
+
+<strong>Tools & Platforms</strong><br/>
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" alt="Jupyter" />
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" alt="VS Code" />
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
+<img src="https://img.shields.io/badge/Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white" alt="Google Colab" />
+<img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white" alt="n8n" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+
+</p>
 
 ---
 
@@ -222,21 +226,18 @@ Publishing   ██████████████░░░░░░░░�
 
 ### 🤝 Let's Connect
 
-<div align="center">
+<p align="center">
+<a href="https://www.linkedin.com/in/shrey-jain-da"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:shrey2006jain@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://github.com/Shrey6876"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+</p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shrey-jain-da)
-[![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shrey2006jain@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Shrey6876)
-
-<br/>
-
+<p align="center">
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random Dev Quote" />
-
-</div>
+</p>
 
 ---
 
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:2e9ef7&height=120&section=footer" width="100%" />
 </div>
-]]>
