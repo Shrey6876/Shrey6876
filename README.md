@@ -21,7 +21,7 @@
 <tr>
 <td width="50%" valign="top">
 
-### 🧠 About Me
+### About Me
 
 ```python
 class Shrey:
@@ -49,7 +49,7 @@ class Shrey:
 </td>
 <td width="50%" valign="top">
 
-### 📊 GitHub Analytics
+### GitHub Analytics
 
 <div align="center">
 
@@ -72,7 +72,6 @@ class Shrey:
 <strong>Languages & ML Frameworks</strong><br/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
-<img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" alt="SQL" />
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="TensorFlow" />
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch" />
 <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" alt="scikit-learn" />
@@ -101,7 +100,7 @@ class Shrey:
 
 ---
 
-### 🏗️ Featured Research & Projects
+### Featured Research & Projects
 
 <table>
 <tr>
