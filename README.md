@@ -169,6 +169,28 @@ class Shrey:
 
 </td>
 </tr>
+<tr>
+<td width="50%" valign="top">
+
+<h4 align="center">🏀 <a href="https://github.com/Shrey6876/NBA-Quant-Engine">Enterprise NBA Quant Engine</a></h4>
+<p align="center"><em>Production-ready betting system with real-time sportsbook lines, usage-rate features, and Kelly Criterion risk management.</em></p>
+<p align="center">
+<img src="https://img.shields.io/badge/Kelly_Criterion-Risk_Management-blue?style=flat-square" />
+<img src="https://img.shields.io/badge/Python-Quant-3776AB?style=flat-square&logo=python&logoColor=white" />
+</p>
+
+</td>
+<td width="50%" valign="top">
+
+<h4 align="center">🏎️ <a href="https://github.com/Shrey6876/f1-replay">F1 Replay Streamlit Application</a></h4>
+<p align="center"><em>Web-based interactive Streamlit dashboard for F1 telemetry and replay analysis deployed via Streamlit Community Cloud.</em></p>
+<p align="center">
+<img src="https://img.shields.io/badge/Streamlit-Dashboard-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-Data_Viz-3776AB?style=flat-square&logo=python&logoColor=white" />
+</p>
+
+</td>
+</tr>
 </table>
 
 <div align="center">
