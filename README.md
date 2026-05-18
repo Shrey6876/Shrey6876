@@ -23,28 +23,19 @@
 
 ### About Me
 
-```python
-class Shrey:
-    role     = "AI & Finance Researcher"
-    location = "Bengaluru, India 🇮🇳"
-    
-    education = {
-        "degree": "B.B.A (Final Year)",
-        "focus" : "AI/ML & Financial Analytics"
-    }
-    
-    research = [
-        "Multi-Agent Reinforcement Learning",
-        "Algorithmic Predatory Equilibrium",
-        "RAG Systems & LLM Deployment"
-    ]
-    
-    goals = {
-        "2025": "Publish in peer-reviewed journals",
-        "2026": "MSc Data Analytics (UK)",
-        "long": "Lead AI-driven transformation"
-    }
-```
+**AI & Finance Researcher | Bengaluru, India 🇮🇳**
+
+I am a final-year B.B.A. student focusing on AI/ML and Financial Analytics. My work sits at the intersection of quantitative finance and artificial intelligence.
+
+**Core Research Areas:**
+- Multi-Agent Reinforcement Learning
+- Algorithmic Predatory Equilibrium
+- RAG Systems & LLM Deployment
+
+**Key Goals:**
+- **2025:** Publish findings in peer-reviewed journals
+- **2026:** Pursue an MSc in Data Analytics in the UK
+- **Long-term:** Lead AI-driven transformation in the financial sector
 
 </td>
 <td width="50%" valign="top">
@@ -204,13 +195,11 @@ class Shrey:
 
 ### 🎯 Current Focus
 
-```text
-Research     ████████████████████░░░░   80%   Multi-Agent RL for Trading (APE Theory)
-Finance      ███████████████████░░░░░   76%   DCF, Monte Carlo, Route Economics
-Deep Learning████████████████░░░░░░░░   64%   GRU/LSTM Architectures, NLP
-RAG Systems  ████████████████████░░░░   80%   Perplexity Spaces, Vector DBs
-Publishing   ██████████████░░░░░░░░░░   56%   SSRN Working Paper in Progress
-```
+- **Research:** Multi-Agent RL for Trading (APE Theory)
+- **Finance:** DCF, Monte Carlo, Route Economics
+- **Deep Learning:** GRU/LSTM Architectures, NLP
+- **RAG Systems:** Perplexity Spaces, Vector DBs
+- **Publishing:** SSRN Working Paper in Progress
 
 ---
 
