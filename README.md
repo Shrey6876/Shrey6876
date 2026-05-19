@@ -40,22 +40,6 @@ I am a final-year B.B.A. student focusing on AI/ML and Financial Analytics. My w
 </td>
 <td width="50%" valign="top">
 
-### GitHub Analytics
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Shrey6876&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=30363d&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" width="100%" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shrey6876&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" width="100%" />
-
-</div>
-
-</td>
-</tr>
-</table>
-
----
-
 ### Tech Arsenal
 
 <p align="center">
